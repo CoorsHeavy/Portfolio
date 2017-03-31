@@ -12,8 +12,10 @@ https://github.com/HudsonHughes/tabpad-backend
 Chrome extension made with AJAX, Javascript, and HTMl
 https://github.com/HudsonHughes/tabpad_chrome_extension
 
-Incognito Instagram. Browse Instagram without accidentally liking posts
+Incognito Instagram. Android app lets you browse Instagram without accidentally liking posts
 https://github.com/HudsonHughes/NoLikeButtonFree
+Download the app here
+https://github.com/HudsonHughes/NoLikeButtonFree/blob/master/app/build/outputs/apk/app-debug.apk?raw=true
 
 Retroactive Recorder. Get recordings of past audio you didn't anticipate. This public version of the repo is missing some files and will not compile on its on. Last tested in April, 2016. Currently working on an updated version for Android 7
 https://github.com/HudsonHughes/RetroactiveRecorderFree-Public
