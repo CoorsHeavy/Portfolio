@@ -1,6 +1,20 @@
 # Portfolio
-An organized portfolio of some of Hudson Hughes's work.
-The list of repos on my actual github profile page conain some junk repos. So here is a list of some of my projects that have made it to the intended portfolio.
+An portfolio of Hudson Hughes' favorite projects that is more organized than the actual profile page.
+
+Retroactive Recorder. Get recordings of past auio you didn't anticipate. Backward Compatible up through Android 4.1, made with Kotlin
+https://github.com/HudsonHughes/FluxRecoreder2
+
+Bomberman Online. An implementation of Bomberman with online functionality including live matching, logins, lobbies, ranks, and invites. Built with Unity3d and NodeJS for the backend. Uses REST UDP and TCP. Requires Unity3d to build. Servers are down but the code is their.
+https://github.uci.edu/ICS168-Spring17/Annoyin-Genius
+
+Incognito Instagram. Android app lets you browse Instagram without accidentally liking posts (Last Updated 2016, might not work with current version of Instagram)
+https://github.com/HudsonHughes/NoLikeButtonFree
+
+LifeTipsLiveWallpaper. A live wallpaper that displays life improvement tips from the internet. The wallpaper updates at user selected intervals. Last tested in 2015.
+https://github.com/HudsonHughes/LifeTipsLiveWallpaper
+
+Instant Snap. This app places an overlay button on the top of your phone at all times so you can take a picture instantly without navigating to the camera app. Last tested in 2015 on HTC M8.
+https://github.com/HudsonHughes/Instant_Snap
 
 Connect 4 in Unity3d with Artificial Intelligence
 https://github.com/HudsonHughes/Connect-4-with-AI
@@ -11,20 +25,3 @@ https://github.com/HudsonHughes/tabpad-backend
 
 Chrome extension made with AJAX, Javascript, and HTMl
 https://github.com/HudsonHughes/tabpad_chrome_extension
-
-Incognito Instagram. Android app lets you browse Instagram without accidentally liking posts
-https://github.com/HudsonHughes/NoLikeButtonFree
-Download the app here
-https://github.com/HudsonHughes/NoLikeButtonFree/blob/master/app/build/outputs/apk/app-debug.apk?raw=true
-
-Retroactive Recorder. Get recordings of past audio you didn't anticipate. This public version of the repo is missing some files and will not compile on its on. Last tested in April, 2016. Currently working on an updated version for Android 7
-https://github.com/HudsonHughes/RetroactiveRecorderFree-Public
-
-Anteater Game. The first level of a basic platforming game I made with other classmates for a Project Management course. Gameplay is similar to Mario but players can also shoot projectiles.
-https://github.com/HudsonHughes/AnteaterGame
-
-LifeTipsLiveWallpaper. A live wallpaper that displays life improvement tips from the internet. The wallpaper updates at user selected intervals. Last tested in 2015
-https://github.com/HudsonHughes/LifeTipsLiveWallpaper
-
-Instant Snap. This app places an overlay button on the top of your phone at all times so you can take a picture instantly without navigating to the camera app. Last tested in 2015 on HTC M8.
-https://github.com/HudsonHughes/Instant_Snap
