@@ -1,7 +1,7 @@
 # Portfolio
 An portfolio of Hudson Hughes' favorite projects that is more organized than the actual profile page.
 
-Retroactive Recorder. Get recordings of past auio you didn't anticipate. You can download this one on the Playstore Backward Compatible up through Android 4.1, made with Kotlin.
+Retroactive Recorder. Get recordings of past audio you didn't anticipate. You can download this one on the Playstore Backward Compatible up through Android 4.1, made with Kotlin.
 https://github.com/HudsonHughes/FluxRecoreder2
 
 Bomberman Online. An implementation of Bomberman with online functionality including live matching, logins, lobbies, ranks, and invites. Built with Unity3d and NodeJS for the backend. Uses REST UDP and TCP. Requires Unity3d to build. Servers are down but the code is their.
@@ -23,5 +23,5 @@ Tabpad.me A website and chrome extension for storing browsing session without an
 Backend and website made with Nodejs, Mongodb, HTML, and Javascript
 https://github.com/HudsonHughes/tabpad-backend
 
-Chrome extension made with AJAX, Javascript, and HTMl
+Chrome extension made with AJAX, Javascript, and HTML
 https://github.com/HudsonHughes/tabpad_chrome_extension
